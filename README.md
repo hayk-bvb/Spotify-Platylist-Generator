@@ -16,5 +16,5 @@ On your first usage, you will be redirected to a custom made website. Please cop
 
 TROUBLESHOOT SECTION:
 
-* Do not include a playlist with a song that is not definined in Spotify, such as a song file used in Spotify from your local directory.
+* Do not include a playlist with a song that is not defined in Spotify, such as a song file used in Spotify from your local directory.
 * If you encounter a pickling error, this is probably due to the impror unzipping of the provided files from the link above. Re-unzip all the files properly and try again!
