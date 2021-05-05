@@ -1,5 +1,5 @@
 # Spotify-Platylist-Generator
-A program that streamlines the generation of a new Spotify playlist, based on the input of a user's existing playlist.
+A program that streamlines the generation of a new Spotify playlist full of recommended songs, based on the input of a user's existing playlist.
 
 IMPORTANT:
 Go to https://drive.google.com/drive/folders/1R0JYqXIXED6c4WoM72kluoV-G-6Khqn7, to download the zipped files, and then copy them into the main project folder.
