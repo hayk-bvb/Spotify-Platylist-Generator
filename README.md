@@ -5,7 +5,7 @@ IMPORTANT:
 Go to https://drive.google.com/drive/folders/1R0JYqXIXED6c4WoM72kluoV-G-6Khqn7, to download the zipped files, datasets, pngs, etc., and then copy them into the main project folder.
 
 
-To run the program, open command prompt and terminal and enter:
+To run the program, open command prompt or terminal, change directory into the project folder and enter:
 python main.py --graphs-file-name=Graph_Final.pickle
 
 This will take 3-10 minutes to load.
